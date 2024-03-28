@@ -1,0 +1,22 @@
+{
+    "name": "com.sh.soarchitecture",
+    "version": "1.0.0",
+    "displayName": "ScriptableObjects Architecture",
+    "description": "Package for the Unity game engine containing implementation of the ScriptableObjects Architecture",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/SzymonHalucha/SH.SOArchitecture/blob/main/README.md",
+    "changelogUrl": "https://github.com/SzymonHalucha/SH.SOArchitecture/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/SzymonHalucha/SH.SOArchitecture/blob/main/LICENSE",
+    "keywords": [
+        "architecture",
+        "ScriptableObjects",
+        "so architecture",
+        "game architecture",
+        "pattern",
+        "events"
+    ],
+    "author": {
+        "name": "Szymon Hałucha",
+        "url": "https://github.com/SzymonHalucha"
+    }
+}
